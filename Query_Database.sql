@@ -101,4 +101,3 @@ ORDER BY pc.EnglishProductCategoryName, psc.EnglishProductSubcategoryName, p.Eng
 --Total sales amount = 29,358,677.22
 --151 rows
 
---The CUBE clause returns more rows (558). This might be because the CUBE generates all combinations of cube expressions
