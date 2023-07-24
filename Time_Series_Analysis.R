@@ -1,4 +1,4 @@
-setwd("C:/Users/david/OneDrive/Documents/USD/DSCI 725/Project")
+setwd("***")
 
 data = read.csv( "AirPassengers.csv" )
 head(data)
